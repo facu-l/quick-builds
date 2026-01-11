@@ -27,7 +27,7 @@ quick-builds/
 │   │   └── app/
 │   └── ...
 └── README.md
-
+```
 ## Proyectos
 
 ### 🏋️ Personal Trainer Landing
