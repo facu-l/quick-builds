@@ -38,5 +38,5 @@ Landing page profesional para entrenadora personal.
 - CTA a WhatsApp
 - Deploy en Vercel
 
-👉 Demo: https://TU-DEPLOY.vercel.app  
+👉 Demo: https://ludmila-montes.vercel.app/  
 👉 Código: ./personal-trainer-landing
