@@ -10,7 +10,10 @@ Landing page para personal trainer con CTAs a WhatsApp y formulario de contacto 
 ## Tech
 Vite + React + TypeScript + Tailwind + shadcn/ui
 
-## Run local
+## Run local (frontend only)
+
+From project root:
+
 ```bash
 npm install
 npm run dev:client
