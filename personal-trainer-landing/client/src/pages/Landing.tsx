@@ -122,6 +122,7 @@ export default function Landing() {
 
           {/* Mobile Toggle */}
           <button 
+            aria-label={isMenuOpen ? "Cerrar menú" : "Abrir menú"}
             className="md:hidden text-white"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
           >
