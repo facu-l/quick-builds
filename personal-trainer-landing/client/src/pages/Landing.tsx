@@ -395,14 +395,18 @@ export default function Landing() {
             </Form>
           </div>
           <div className="mt-16 flex flex-col md:flex-row justify-center items-center gap-8 text-muted-foreground">
-            <a href="#" className="flex items-center gap-2 hover:text-primary transition-colors">
+            <a href="https://instagram.com/luu.montes__"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 hover:text-primary transition-colors"
+              >
               <Instagram className="w-5 h-5" />
               <span className="uppercase text-sm tracking-widest">@luu.montes__</span>
             </a>
             <div className="hidden md:block w-px h-4 bg-white/10" />
             <a href="mailto:ludmila@fitness.com" className="flex items-center gap-2 hover:text-primary transition-colors">
               <Mail className="w-5 h-5" />
-              <span className="uppercase text-sm tracking-widest">ludmila@fitness.com</span>
+              <span className="uppercase text-sm tracking-widest">ludmilamontes29@gmail.com</span>
             </a>
           </div>
         </div>
