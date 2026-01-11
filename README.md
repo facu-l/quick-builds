@@ -27,3 +27,16 @@ quick-builds/
 │   │   └── app/
 │   └── ...
 └── README.md
+
+## Proyectos
+
+### 🏋️ Personal Trainer Landing
+Landing page profesional para entrenadora personal.
+
+- Stack: Vite + React + Tailwind CSS
+- Formulario de contacto por email (Web3Forms)
+- CTA a WhatsApp
+- Deploy en Vercel
+
+👉 Demo: https://TU-DEPLOY.vercel.app  
+👉 Código: ./personal-trainer-landing
