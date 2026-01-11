@@ -42,7 +42,7 @@ export default function Landing() {
     },
   });
   /* ACCESS KEY EMAIL */
-  const WEB3FORMS_ACCESS_KEY = "0e805d22-ee21-4a8a-9784-c60448edc195"
+  const WEB3FORMS_ACCESS_KEY = import.meta.env.VITE_WEB3FORMS_ACCESS_KEY;
 
   const onSubmit = async (data: InsertInquiry) => {
     try {
